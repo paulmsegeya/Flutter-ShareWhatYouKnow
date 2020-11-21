@@ -42,8 +42,6 @@ Here are the links for the articles:
 <li> <a href= "https://medium.com/@ulusoyca/switching-between-client-specific-themes-for-b2b-flutter-apps-part-i-design-c9c501700c0e">Switching Between Client Specific Themes for B2B Flutter Apps - Part I: Design</li>
 <li> <a href= "https://medium.com/@ulusoyca/switching-between-client-specific-themes-for-b2b-flutter-apps-part-i-design-c9c501700c0e">Switching Between Client Specific Themes for B2B Flutter Apps - Part II: Implementation</li>
 
-### 🏠 [Homepage](https://medium.com/@ulusoyca/switching-between-client-specific-themes-for-b2b-flutter-apps-part-i-design-c9c501700c0e)
-
 ## Usage
 To start the app with the command line, first open an iOS simulator,
 Android Virtual device, or a physical device. Then type the following
