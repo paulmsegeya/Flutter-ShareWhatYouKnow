@@ -12,9 +12,7 @@ In this series of articles, I talk about implementing a design system
 for a Flutter app so that we can easily switch between three themes made
 for three different companies.
 
-<p align="center">
-  <img src="![theme_switch_demo.gif](screenshot/theme_switch_demo.gif)"/>
-</p>
+![theme_switch_demo.gif](screenshot/theme_switch_demo.gif)
 
 Imagine you have a B2B app to be used by the customers or employers of
 different companies. You can choose to implement only one app theme for
