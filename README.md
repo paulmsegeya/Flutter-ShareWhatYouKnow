@@ -45,9 +45,12 @@ Here are the links for the articles:
 ### 🏠 [Homepage](https://medium.com/@ulusoyca/switching-between-client-specific-themes-for-b2b-flutter-apps-part-i-design-c9c501700c0e)
 
 ## Usage
+To start the app with the command line, first open an iOS simulator,
+Android Virtual device, or a physical device. Then type the following
+commands on the command line:
 
 ```sh
-To launch the demo app, run the main.dart file in package:ulusoyapps_flutter/001-theme-switch-with-providers/
+flutter run lib/001-theme-switch-with-providers/main.dart
 ```
 
 ## Author
