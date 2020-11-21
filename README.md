@@ -8,18 +8,34 @@
   </a>
 </p>
 
-In this series of articles, I talk about implementing a design system for a Flutter app so that we can easily switch between three themes made for three different companies.
+In this series of articles, I talk about implementing a design system
+for a Flutter app so that we can easily switch between three themes made
+for three different companies.
 
-![theme_switch_demo.gif](screenshot/theme_switch_demo.gif)
+<p align="center">
+  <img src="![theme_switch_demo.gif](screenshot/theme_switch_demo.gif)"/>
+</p>
 
-Imagine you have a B2B app to be used by the customers or employers of different companies. You can choose to implement only one app theme for all companies. Alternatively, your app can apply company-specific themes to increase brand awareness when a user is identified.
+Imagine you have a B2B app to be used by the customers or employers of
+different companies. You can choose to implement only one app theme for
+all companies. Alternatively, your app can apply company-specific themes
+to increase brand awareness when a user is identified.
 
-It may sound like a big cost to maintain multiple themes in an app, but when carefully done, it is actually not a big deal. In fact, it forces you to write cleaner code with separate concerns and less repetition. 
+It may sound like a big cost to maintain multiple themes in an app, but
+when carefully done, it is actually not a big deal. In fact, it forces
+you to write cleaner code with separate concerns and less repetition.
 
-There are many blog posts and tutorials on switching between dark and light themes in Flutter. However, brightness is only one aspect of a theme. A theme is a collection of attributes that are applied to all screens of an application. In this article, I discuss how to apply 3 different themes in an app and switching between them.
+There are many blog posts and tutorials on switching between dark and
+light themes in Flutter. However, brightness is only one aspect of a
+theme. A theme is a collection of attributes that are applied to all
+screens of an application. In this article, I discuss how to apply 3
+different themes in an app and switching between them.
 
-The distinct theme properties will be color, typography, icons, shape, and brightness.
-In the demo project, I implemented themes for the following imaginary companies: ATA, Biohack, and Codeland. Note that in the app there are intentional design mistakes which are mentioned in these posts for demonstration purposes.
+The distinct theme properties will be color, typography, icons, shape,
+and brightness. In the demo project, I implemented themes for the
+following imaginary companies: ATA, Biohack, and Codeland. Note that in
+the app there are intentional design mistakes which are mentioned in
+these posts for demonstration purposes.
 
 ![companies](screenshot/companies.png)
 
@@ -42,7 +58,8 @@ To launch the demo app, run the main.dart file in package:ulusoyapps_flutter/001
 
 * Twitter: [@ulusoyapps](https://twitter.com/ulusoyapps)
 * Github: [@ulusoyca](https://github.com/ulusoyca)
-* LinkedIn: [@https:\/\/www.linkedin.com\/in\/cagatayulusoy\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/cagatayulusoy\/)
+* LinkedIn:
+  [@https:\/\/www.linkedin.com\/in\/cagatayulusoy\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/cagatayulusoy\/)
 
 ## Show your support
 
@@ -51,7 +68,11 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2020 [Cagatay Ulusoy](https://github.com/ulusoyca).<br />
-This project is [Apache License, Version 2.0 (the &#34;License&#34;)](http://www.apache.org/licenses/LICENSE-2.0) licensed.
+This project is
+[Apache License, Version 2.0 (the &#34;License&#34;)](http://www.apache.org/licenses/LICENSE-2.0)
+licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+
+_This README was generated with ❤️ by
+[readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
